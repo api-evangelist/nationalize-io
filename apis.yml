@@ -1,0 +1,32 @@
+aid: nationalize-io
+name: Nationalize.io
+description: "Estimate the nationality of a first name"
+url: https://nationalize.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Nationalize.io
+    description: "Estimate the nationality of a first name"
+    humanURL: https://nationalize.io
+    baseURL: https://nationalize.io
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://nationalize.io
+common:
+  - type: Website
+    url: https://nationalize.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
